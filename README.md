@@ -1,1 +1,3 @@
 To launch Binder click badge 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jpmill09/FFX_Update.git/HEAD?filepath=Notebooks%2FMS4%20Service%20Area%20Analysis%20Final.ipynb)
