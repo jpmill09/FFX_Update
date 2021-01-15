@@ -1,7 +1,5 @@
 name: FFX_STW
 channels:
-  - plotly
-  - conda-forge
   - defaults
 dependencies:
   - pandas
@@ -11,7 +9,7 @@ dependencies:
   - ipywidgets
   - ipyleaflet
   - openpyxl
-    - pip:
+  - pip:
     - branca==0.4.1
     - ipyaggrid==0.2.1
     - ipyleaflet==0.13.3
