@@ -1,5 +1,7 @@
 name: FFX_STW
 channels:
+  - plotly
+  - conda-forge
   - defaults
 dependencies:
   - pandas
