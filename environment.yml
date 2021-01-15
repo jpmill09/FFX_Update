@@ -8,6 +8,16 @@ dependencies:
   - plotly=4.12.0
   - ipywidgets
   - ipyleaflet
-  - ipyaggrid
   - openpyxl
+    - pip:
+    - branca==0.4.1
+    - ipyaggrid==0.2.1
+    - ipyleaflet==0.13.3
+    - itables==0.2.2
+    - jupyter-server==0.1.1
+    - nbconvert==5.6.1
+    - simplejson==3.17.2
+    - traittypes==0.2.1
+    - voila==0.1.23
+    - voila-debug==0.0.1
 prefix: C:\Users\john.miller4\Anaconda3\envs\FFX_STW
